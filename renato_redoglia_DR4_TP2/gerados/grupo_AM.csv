@@ -1,0 +1,4 @@
+id;nome;sobrenome;email;idade;data de nascimento;cidade;estado;hobbies;linguagens de programação;jogos;ano nascimento
+105a1585;Beatriz;Almeida Souza Santos;beatrizoo@fastmail.com;23.0;2001-10-21;Manaus;AM;['futebol', 'viagem'];['Go', 'Kotlin', 'C#', 'Python'];[('Apex Legends', 'PC'), ('Fortnite', 'PlayStation 4'), ('Cyberpunk 2077', 'PC')];2001
+0d149de4;Guilherme;Lima Souza Rocha;guilhermela@inbox.org;39.0;1985-06-26;Manaus;AM;['música', 'viagem', 'leitura'];['Kotlin', 'Swift', 'PHP', 'Go'];[('Valorant', 'PC')];1985
+96560ded;Rafael;Moraes;rafaell2@inbox.org;31.0;1993-07-19;Manaus;AM;['natação', 'cozinhar'];['Kotlin', 'Go', 'Swift'];[('Cyberpunk 2077', 'PC'), ('Among Us', 'Mobile')];1993

@@ -1,0 +1,317 @@
+[
+    {
+        "nome": "Renato",
+        "idade": 22,
+        "cidade": "Itajaí",
+        "estado": "SC",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Matheus",
+        "idade": 27,
+        "cidade": "Goiânia",
+        "estado": "GO",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Vinícius",
+        "idade": 32,
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Gustavo",
+        "idade": 18,
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Júlia",
+        "idade": 35,
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "João",
+        "idade": 25,
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Ana",
+        "idade": 22,
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Carlos",
+        "idade": 30,
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Fernanda",
+        "idade": 28,
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Marcos",
+        "idade": 27,
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Clara",
+        "idade": 26,
+        "cidade": "Brasília",
+        "estado": "DF",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Lívia",
+        "idade": 24,
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Lucas",
+        "idade": 31,
+        "cidade": "Salvador",
+        "estado": "BA",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Fernando",
+        "idade": 29,
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Aline",
+        "idade": 23,
+        "cidade": "Florianópolis",
+        "estado": "SC",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Caio",
+        "idade": 27,
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Sofia",
+        "idade": 21,
+        "cidade": "Campinas",
+        "estado": "SP",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Rafaela",
+        "idade": 22,
+        "cidade": "Recife",
+        "estado": "PE",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Mateus",
+        "idade": 32,
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Tiago",
+        "idade": 28,
+        "cidade": "Brasília",
+        "estado": "DF",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Paulo",
+        "idade": 33,
+        "cidade": "Natal",
+        "estado": "RN",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Juliana",
+        "idade": 25,
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Pedro",
+        "idade": 26,
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Amanda",
+        "idade": 24,
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Bruno",
+        "idade": 30,
+        "cidade": "Cuiabá",
+        "estado": "MT",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Carla",
+        "idade": 29,
+        "cidade": "Salvador",
+        "estado": "BA",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Gabriela",
+        "idade": 27,
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Jorge",
+        "idade": 22,
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Thiago",
+        "idade": 31,
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Renata",
+        "idade": 23,
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Leonardo",
+        "idade": 29,
+        "cidade": "Campinas",
+        "estado": "SP",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Camila",
+        "idade": 28,
+        "cidade": "Niterói",
+        "estado": "RJ",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Felipe",
+        "idade": 27,
+        "cidade": "Brasília",
+        "estado": "DF",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Mariana",
+        "idade": 30,
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    },
+    {
+        "nome": "Daniel",
+        "idade": 25,
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [],
+        "linguagens de programação": [],
+        "jogos": []
+    }
+]

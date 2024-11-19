@@ -1,0 +1,36 @@
+id;nome;sobrenome;email;idade;data de nascimento;cidade;estado;hobbies;linguagens de programação;jogos;ano nascimento
+03876130;Vinícius;;;32.0;1992-01-01;Rio de Janeiro;RJ;[];[];[];1992
+5d8a7177;João;;;25.0;1999-01-01;Rio de Janeiro;RJ;[];[];[];1999
+dd9b65f5;Mateus;;;32.0;1992-01-01;Rio de Janeiro;RJ;[];[];[];1992
+76dff810;Jorge;;;22.0;2002-01-01;Rio de Janeiro;RJ;[];[];[];2002
+5edf9d3e;Camila;;;28.0;1996-01-01;Niterói;RJ;[];[];[];1996
+faaff1be;Daniel;;;25.0;1999-01-01;Rio de Janeiro;RJ;[];[];[];1999
+3f27c71e;Larissa;Moraes Barbosa;larissakx@webmail.net;20.0;2004-09-04;Petropolis;RJ;['leitura', 'fotografia', 'ciclismo'];['C#', 'C++', 'Ruby', 'JavaScript'];[('GTA V', 'PlayStation 4'), ('Cyberpunk 2077', 'PC'), ('Valorant', 'PC')];2004
+ecaf8829;Beatriz;Souza Carvalho Moraes;beatriz13@fastmail.com;47.0;1977-03-20;Volta Redonda;RJ;[];['JavaScript', 'Swift', 'Go', 'Java'];[('Apex Legends', 'PC')];1977
+a7e8504f;Luís;Oliveira;luís8@inbox.org;38.0;1986-07-21;Rio de Janeiro;RJ;['leitura'];['C++', 'Java', 'C#', 'Ruby'];[('The Witcher 3', 'Xbox One'), ('GTA V', 'PlayStation 4')];1986
+e8155af8;Ana;Barbosa Araújo;anazq@randommail.com;41.0;1982-11-06;Rio de Janeiro;RJ;[];['Python', 'Kotlin', 'Swift', 'C++', 'PHP'];[('Apex Legends', 'PC'), ('The Witcher 3', 'Xbox One'), ('Minecraft', 'PC')];1983
+e34f880c;João;Araújo Silva;joãow@inbox.org;44.0;1980-04-11;Volta Redonda;RJ;['viagem', 'pintura', 'natação', 'futebol'];['Ruby', 'Swift', 'PHP', 'Python', 'Kotlin'];[('The Witcher 3', 'Xbox One'), ('Valorant', 'PC')];1980
+c85033d0;Pedro;Ribeiro;pedroi@freemail.com;48.0;1976-04-19;Rio de Janeiro;RJ;['ciclismo'];['Go', 'JavaScript', 'PHP', 'Swift'];[];1976
+f644292d;Pedro;Araújo Dias Gomes;pedroh@example.com;40.0;1984-07-10;Petropolis;RJ;[];['PHP', 'Ruby', 'Java', 'JavaScript'];[];1984
+2771ad9f;Ana;Dias;anak2@fastmail.com;20.0;2004-01-01;Volta Redonda;RJ;['fotografia'];['C#'];[('GTA V', 'PlayStation 4'), ('Among Us', 'Mobile'), ('Apex Legends', 'PC'), ('Valorant', 'PC')];2004
+5504d3f7;Luís;Barbosa Rocha Gomes;luísy7r@mailservice.com;21.0;2003-03-20;Petropolis;RJ;['futebol', 'fotografia', 'música', 'leitura'];['Ruby'];[('Fortnite', 'PlayStation 4'), ('Apex Legends', 'PC'), ('Overwatch', 'PC')];2003
+8bca4c2f;Larissa;Pereira Carvalho;larissaq@example.com;30.0;1994-10-04;Petropolis;RJ;['pintura'];[];[('Fortnite', 'PlayStation 4'), ('League of Legends', 'PC'), ('The Witcher 3', 'Xbox One')];1994
+6667eca4;Julia;Costa Carvalho Lima;juliar@mailservice.com;44.0;1980-04-23;Volta Redonda;RJ;[];['JavaScript', 'Go', 'PHP', 'C++', 'Ruby'];[('Valorant', 'PC'), ('League of Legends', 'PC'), ('Apex Legends', 'PC')];1980
+bb2d93e4;Maria;Fernandes Correia Ribeiro;pedro.oliveiraexample.com;19.0;2005-03-28;Rio de Janeiro;RJ;['fotografia', 'ciclismo', 'natação'];['Ruby', 'PHP'];[('Minecraft', 'PC'), ('Valorant', 'PC'), ('Among Us', 'Mobile'), ('The Witcher 3', 'Xbox One'), ('Cyberpunk 2077', 'PC')];2005
+b993299f;Carla;Rodrigues;carla3k@webmail.net;48.0;1976-06-09;Petropolis;RJ;['cozinhar'];['JavaScript', 'Swift', 'Java'];[('GTA V', 'PlayStation 4'), ('The Witcher 3', 'Xbox One'), ('Overwatch', 'PC'), ('Among Us', 'Mobile')];1976
+1e672365;Matheus;Correia Carvalho;matheus6u@webmail.net;26.0;1998-10-21;Petropolis;RJ;['natação', 'cinema', 'cozinhar', 'ciclismo'];['Java', 'JavaScript', 'C#'];[('League of Legends', 'PC'), ('GTA V', 'PlayStation 4'), ('Apex Legends', 'PC'), ('The Witcher 3', 'Xbox One')];1998
+1ab3c982;Fernanda;Lima Costa;fernanda8zw@randommail.com;41.0;1983-06-14;Rio de Janeiro;RJ;['cinema', 'ciclismo', 'pintura'];['Ruby', 'C#', 'Python', 'C++', 'Kotlin'];[('Apex Legends', 'PC')];1983
+308598c4;Ana;Moraes Souza Rocha;anad@webmail.net;48.0;1976-08-19;Rio de Janeiro;RJ;['cinema', 'fotografia', 'natação', 'viagem', 'pintura'];['Swift', 'Kotlin'];[('GTA V', 'PlayStation 4'), ('Fortnite', 'PlayStation 4')];1976
+3612fbfa;Sofia;Correia Barbosa Pereira;sofiajb@fastmail.com;43.0;1981-03-06;Rio de Janeiro;RJ;['cinema', 'futebol', 'fotografia'];['Python'];[];2024
+14ca89e8;Ana;Rodrigues Gomes;anahi7@webmail.net;40.0;1984-08-23;Petropolis;RJ;['viagem', 'futebol', 'leitura', 'natação'];['Go', 'C#', 'Java', 'Swift'];[('Apex Legends', 'PC'), ('Overwatch', 'PC'), ('Valorant', 'PC')];1984
+e03e7966;Fernanda;Ribeiro;fernanda9s5@example.com;34.0;1990-05-14;Volta Redonda;RJ;['cozinhar', 'viagem', 'pintura'];['Python', 'Swift'];[('Apex Legends', 'PC'), ('Valorant', 'PC')];1990
+82067087;Maria;Silva;mariaee5@inbox.org;23.0;2001-03-06;Petropolis;RJ;['pintura', 'ciclismo'];[];[('Valorant', 'PC'), ('Among Us', 'Mobile'), ('Overwatch', 'PC')];2001
+64b5bccc;Julia;Rocha Almeida;juliakm8@webmail.net;44.0;1980-01-03;Rio de Janeiro;RJ;['ciclismo', 'música', 'futebol'];['C++', 'Kotlin', 'PHP', 'Swift', 'C#'];[('League of Legends', 'PC'), ('Overwatch', 'PC'), ('Apex Legends', 'PC'), ('Cyberpunk 2077', 'PC'), ('Among Us', 'Mobile')];1980
+b391669a;Carlos;Rodrigues Pereira;carlosea@webmail.net;36.0;1988-03-02;Rio de Janeiro;RJ;['música', 'viagem'];[];[];1988
+bfbb4de8;Maria;Dias Lima Araújo;mariasv@inbox.org;22.0;2002-09-28;Petropolis;RJ;['natação', 'futebol', 'ciclismo', 'viagem'];[];[('Overwatch', 'PC'), ('Fortnite', 'PlayStation 4')];2002
+d3409ac4;Ana;Carvalho;anal7p@randommail.com;29.0;1995-01-25;Petropolis;RJ;['pintura', 'cinema', 'música', 'futebol', 'leitura'];['JavaScript', 'Swift', 'C#', 'Go'];[('Minecraft', 'PC')];1995
+16ac75ba;Larissa;Oliveira Ribeiro Silva;larissawkq@fastmail.com;30.0;1993-12-04;Petropolis;RJ;['viagem'];['C++', 'Java', 'C#', 'JavaScript'];[('Among Us', 'Mobile')];1994
+50ec8818;Mariana;Rocha Barbosa;mariana0@fastmail.com;29.0;1995-01-28;Petropolis;RJ;['leitura', 'viagem', 'cinema'];['Go', 'C++', 'Ruby'];[];1995
+969c7acc;Mariana;Almeida Silva;mariana0@mail.com;29.0;1995-11-22;Rio de Janeiro;RJ;['música', 'viagem'];['Java', 'C#'];[('The Witcher 3', 'Xbox One')];1995
+ca4fc87a;Mariana;Almeida Silva;joaogmail.com;29.0;1995-11-22;Rio de Janeiro;RJ;['música', 'viagem'];['Java', 'C#'];[('The Witcher 3', 'Xbox One')];1995
+08e9f228;Mariana;Almeida Silva;mariana2@mail.com;29.0;1995-11-22;Rio de Janeiro;RJ;['música', 'viagem'];['Java', 'C#'];[('The Witcher 3', 'Xbox One')];2024

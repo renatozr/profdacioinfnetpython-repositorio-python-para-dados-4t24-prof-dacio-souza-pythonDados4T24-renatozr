@@ -1,0 +1,10 @@
+id;nome;sobrenome;email;idade;data de nascimento;cidade;estado;hobbies;linguagens de programação;jogos;ano nascimento
+d11e7939;Lucas;;;31.0;1993-01-01;Salvador;BA;[];[];[];1993
+c8aa89e5;Carla;;;29.0;1995-01-01;Salvador;BA;[];[];[];1995
+a758d57e;Camila;Martins Fernandes Oliveira;;29.0;1994-12-21;Salvador;BA;['leitura', 'pintura', 'viagem'];['Ruby', 'PHP'];[('GTA V', 'PlayStation 4')];1995
+24d56155;Larissa;Oliveira Souza Carvalho;larissali@inbox.org;19.0;2005-05-12;Salvador;BA;['futebol', 'cozinhar', 'pintura'];['JavaScript', 'Python', 'Swift'];[('Cyberpunk 2077', 'PC'), ('Overwatch', 'PC')];2005
+37925a69;Rafael;Martins Ribeiro Moraes;;42.0;1982-05-26;Salvador;BA;['leitura', 'fotografia', 'pintura', 'natação', 'música'];['JavaScript', 'Ruby'];[('Cyberpunk 2077', 'PC'), ('The Witcher 3', 'Xbox One'), ('Among Us', 'Mobile')];1982
+12017cea;Luís;Dias Souza Barbosa;luís3j@randommail.com;44.0;1980-08-22;Salvador;BA;[];['PHP'];[];1980
+464738a1;Ana;Carvalho Moraes;anaro5@fastmail.com;32.0;2024-07-22;Salvador;BA;['cozinhar'];['Ruby', 'PHP', 'C++'];[('Apex Legends', 'PC')];1992
+be552028;Rafael;Lima Oliveira Barbosa;rafael0@mailservice.com;44.0;1980-04-19;Salvador;BA;['leitura', 'natação', 'viagem', 'música'];['JavaScript', 'Java', 'PHP', 'C#', 'C++'];[('Minecraft', 'PC'), ('Fortnite', 'PlayStation 4'), ('Among Us', 'Mobile')];1980
+04cbcc69;Beatriz;Souza Pereira;beatrizg0j@freemail.com;27.0;1997-01-01;Salvador;BA;['cinema', 'ciclismo', 'pintura'];['C++', 'PHP', 'Ruby'];[('Cyberpunk 2077', 'PC')];1997

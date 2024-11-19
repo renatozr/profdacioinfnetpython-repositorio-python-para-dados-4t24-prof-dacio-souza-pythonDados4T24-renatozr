@@ -1,0 +1,12 @@
+id;nome;sobrenome;email;idade;data de nascimento;cidade;estado;hobbies;linguagens de programação;jogos;ano nascimento
+8f30e495;Fernanda;;;28.0;1996-01-01;Curitiba;PR;[];[];[];1996
+e8a6f5c3;Caio;;;27.0;1997-01-01;Curitiba;PR;[];[];[];1997
+16ee2fb8;Renata;;;23.0;2001-01-01;Curitiba;PR;[];[];[];2001
+4685d079;Larissa;Correia Martins;larissa8@mailservice.com;41.0;1983-03-07;Curitiba;PR;[];['Kotlin'];[('League of Legends', 'PC'), ('The Witcher 3', 'Xbox One'), ('Overwatch', 'PC')];1983
+723a6950;Matheus;Fernandes;matheus4@randommail.com;32.0;1991-12-11;Curitiba;PR;['leitura', 'natação'];['Swift', 'Java'];[];1992
+bb8d846d;Bruno;Correia Costa;bruno53@fastmail.com;21.0;2003-08-11;Curitiba;PR;['cinema', 'leitura'];['JavaScript'];[('League of Legends', 'PC'), ('The Witcher 3', 'Xbox One'), ('Fortnite', 'PlayStation 4'), ('Minecraft', 'PC')];2024
+176f60dc;Beatriz;Almeida Lima Costa;beatrizpc@freemail.com;45.0;1979-03-23;Curitiba;PR;[];['Go', 'Swift', 'Ruby', 'C#', 'PHP'];[('Cyberpunk 2077', 'PC'), ('Overwatch', 'PC'), ('Apex Legends', 'PC')];1979
+dd699dbf;Lucas;Fernandes Santos;lucasf@webmail.net;28.0;1996-03-26;Curitiba;PR;['cinema', 'fotografia'];['Python', 'Kotlin', 'Go', 'JavaScript'];[('Among Us', 'Mobile')];1996
+f734c476;Bruno;Ribeiro Rocha Almeida;brunobsz@randommail.com;28.0;1996-03-05;Curitiba;PR;['cozinhar', 'viagem', 'leitura'];['Kotlin', 'PHP', 'Java', 'C++'];[('GTA V', 'PlayStation 4'), ('Fortnite', 'PlayStation 4'), ('Overwatch', 'PC'), ('Apex Legends', 'PC'), ('Valorant', 'PC')];1996
+a84e18cc;Bruno;Dias;bruno11@freemail.com;40.0;1984-05-05;Curitiba;PR;['viagem'];['Go', 'Java', 'C#', 'JavaScript', 'Ruby'];[('Fortnite', 'PlayStation 4'), ('Cyberpunk 2077', 'PC'), ('Among Us', 'Mobile'), ('GTA V', 'PlayStation 4')];1984
+be43ff75;Carla;Araújo Santos Dias;carla8@randommail.com;44.0;1979-11-08;Curitiba;PR;['música'];[];[('Valorant', 'PC'), ('Cyberpunk 2077', 'PC'), ('GTA V', 'PlayStation 4'), ('Fortnite', 'PlayStation 4')];1980

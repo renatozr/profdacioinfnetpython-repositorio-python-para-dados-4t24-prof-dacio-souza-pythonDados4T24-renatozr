@@ -1,0 +1,23 @@
+id;nome;sobrenome;email;idade;data de nascimento;cidade;estado;hobbies;linguagens de programação;jogos;ano nascimento
+0e9546eb;Carlos;;;30.0;1994-01-01;Belo Horizonte;MG;[];[];[];1994
+20cabca5;Pedro;;;26.0;1998-01-01;Belo Horizonte;MG;[];[];[];1998
+ae994746;Bruno;Barbosa Souza;bruno0@freemail.com;18.0;2006-01-01;Belo Horizonte;MG;['viagem', 'cinema', 'futebol'];['Swift', 'C#', 'Go', 'Kotlin', 'PHP'];[('Overwatch', 'PC'), ('GTA V', 'PlayStation 4'), ('The Witcher 3', 'Xbox One'), ('Minecraft', 'PC')];2006
+c34e2389;Sofia;Araújo Carvalho Rodrigues;sofia6@example.com;46.0;1978-04-09;Juiz de Fora;MG;['viagem', 'pintura'];[];[];1978
+0f18226f;Pedro;Silva;pedrog@webmail.net;40.0;1984-04-26;Belo Horizonte;MG;['leitura'];['Python', 'C++', 'Ruby', 'C#', 'Swift'];[];2024
+aaa1efc2;Larissa;Almeida Rodrigues;larissah1@randommail.com;36.0;1988-06-06;Juiz de Fora;MG;['fotografia'];['Python', 'C++', 'Java', 'Go'];[('The Witcher 3', 'Xbox One'), ('Among Us', 'Mobile')];1988
+7ba461b8;Pedro;Carvalho Araújo;pedrog@mailservice.com;31.0;1993-03-22;Juiz de Fora;MG;['futebol', 'fotografia', 'natação', 'leitura', 'cozinhar'];['Kotlin', 'Java', 'Swift', 'Ruby', 'Go'];[('Fortnite', 'PlayStation 4')];1993
+bef7ca70;Fernanda;Correia;fernandac@example.com;29.0;1995-01-01;Juiz de Fora;MG;[];['Python', 'C#', 'PHP', 'JavaScript'];[('Minecraft', 'PC'), ('Overwatch', 'PC'), ('Valorant', 'PC'), ('Cyberpunk 2077', 'PC'), ('GTA V', 'PlayStation 4')];1995
+aae18988;Larissa;Gomes Moraes;larissawvv@fastmail.com;33.0;1991-03-11;Juiz de Fora;MG;['ciclismo', 'natação', 'música', 'cinema', 'viagem'];[];[('GTA V', 'PlayStation 4'), ('League of Legends', 'PC'), ('Apex Legends', 'PC'), ('Valorant', 'PC'), ('Cyberpunk 2077', 'PC')];1991
+73f40cb3;Pedro;Souza Oliveira;pedrosq@fastmail.com;20.0;2003-11-12;Juiz de Fora;MG;['música', 'natação', 'ciclismo'];['Go', 'PHP'];[('Fortnite', 'PlayStation 4'), ('Overwatch', 'PC'), ('Among Us', 'Mobile'), ('Valorant', 'PC'), ('The Witcher 3', 'Xbox One')];2004
+da14ae70;Rafael;Ribeiro Moraes;rafaelkk@mailservice.com;22.0;2002-01-24;Juiz de Fora;MG;[];['Ruby', 'PHP', 'Python', 'Kotlin'];[('Fortnite', 'PlayStation 4')];2002
+addf7b94;Pedro;Lima Dias;maria.santos@;21.0;2003-03-16;Juiz de Fora;MG;['pintura', 'fotografia', 'futebol', 'cinema', 'leitura'];['C#'];[('Overwatch', 'PC'), ('GTA V', 'PlayStation 4'), ('Among Us', 'Mobile')];2024
+826258f9;Mariana;Ribeiro;mariana5@randommail.com;24.0;2000-06-04;Juiz de Fora;MG;[];['C++'];[('Overwatch', 'PC'), ('Minecraft', 'PC'), ('Cyberpunk 2077', 'PC'), ('GTA V', 'PlayStation 4'), ('Fortnite', 'PlayStation 4')];2024
+32d0dc4b;Ana;Martins Silva;ana6wz@fastmail.com;34.0;1990-10-02;Juiz de Fora;MG;['futebol', 'música', 'fotografia', 'natação', 'leitura'];['Java', 'Python', 'Kotlin', 'JavaScript', 'PHP'];[('Fortnite', 'PlayStation 4'), ('The Witcher 3', 'Xbox One')];1990
+e0c03323;Rafael;Oliveira Araújo Dias;rafaelbm1@webmail.net;38.0;1985-12-01;Belo Horizonte;MG;['cozinhar', 'ciclismo', 'cinema', 'fotografia', 'música'];['C#', 'Ruby'];[('Overwatch', 'PC'), ('GTA V', 'PlayStation 4'), ('Fortnite', 'PlayStation 4'), ('Minecraft', 'PC')];1986
+defa6aa6;Beatriz;Costa Lima Correia;beatrizd@webmail.net;20.0;2004-03-24;Juiz de Fora;MG;['cinema', 'viagem', 'futebol', 'música', 'ciclismo'];['Go', 'Python'];[('GTA V', 'PlayStation 4'), ('Valorant', 'PC')];2004
+72a698c4;Beatriz;Costa Fernandes Martins;beatriz7u@inbox.org;26.0;1998-01-01;Juiz de Fora;MG;['natação', 'fotografia', 'música', 'futebol'];['PHP'];[('Fortnite', 'PlayStation 4'), ('Overwatch', 'PC')];1998
+c3818351;Fernanda;Costa Ribeiro;fernanda1@mailservice.com;23.0;2001-07-23;Belo Horizonte;MG;[];['Java', 'Python'];[('Overwatch', 'PC')];2001
+41936061;Mariana;Souza Martins;mariana6@inbox.org;45.0;1978-11-21;Belo Horizonte;MG;['música', 'ciclismo'];['Python', 'Ruby', 'C#', 'Swift'];[('GTA V', 'PlayStation 4')];1979
+9f446547;João;Silva Almeida Correia;joãoy@inbox.org;28.0;1996-03-25;Juiz de Fora;MG;['fotografia'];['Swift', 'Kotlin', 'C#', 'Java'];[('Apex Legends', 'PC')];1996
+e3f891ab;Carla;Ribeiro Moraes;carlam@inbox.org;33.0;1991-06-02;Juiz de Fora;MG;['fotografia', 'futebol', 'música'];['Python', 'Swift', 'JavaScript'];[('Among Us', 'Mobile'), ('League of Legends', 'PC')];1991
+8bcc1628;Mariana;Costa;marianasch@freemail.com;31.0;1993-01-05;Belo Horizonte;MG;['leitura'];[];[('League of Legends', 'PC')];1993

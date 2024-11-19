@@ -1,0 +1,9 @@
+id;nome;sobrenome;email;idade;data de nascimento;cidade;estado;hobbies;linguagens de programação;jogos;ano nascimento
+caba51c8;Rafaela;;;22.0;2002-01-01;Recife;PE;[];[];[];2002
+1c2874a4;Camila;Santos;camila6oo@inbox.org;45.0;1981-03-05;Recife;PE;['ciclismo', 'pintura', 'natação', 'música', 'cinema'];['Java', 'Kotlin', 'C++', 'Ruby', 'Python'];[('Cyberpunk 2077', 'PC'), ('League of Legends', 'PC')];1979
+3e7e4ad8;Julia;Pereira Santos Almeida;julia5b8@freemail.com;22.0;2002-10-13;Recife;PE;['ciclismo', 'pintura', 'cozinhar', 'música', 'fotografia'];[];[('GTA V', 'PlayStation 4')];2002
+8752082c;Rafael;Oliveira Souza Santos;rafaelav@inbox.org;42.0;1982-09-26;Recife;PE;['futebol', 'música', 'pintura', 'cinema'];['Go', 'Kotlin', 'Ruby'];[('GTA V', 'PlayStation 4')];1982
+8284af6b;Luís;Almeida Gomes Ribeiro;luísl4@fastmail.com;44.0;1980-12-27;Recife;PE;['pintura'];['Python', 'Java'];[('Fortnite', 'PlayStation 4')];2024
+315c291f;Guilherme;Pereira Barbosa Souza;guilherme5e@webmail.net;36.0;1988-06-13;Recife;PE;['música', 'cinema', 'cozinhar', 'natação'];['Swift'];[('The Witcher 3', 'Xbox One'), ('Overwatch', 'PC'), ('Fortnite', 'PlayStation 4'), ('Among Us', 'Mobile')];1988
+04b146fc;Ana;Moraes Pereira Ribeiro;anaat@example.com;45.0;1978-11-09;Recife;PE;['viagem'];[];[('Overwatch', 'PC'), ('Valorant', 'PC'), ('GTA V', 'PlayStation 4')];1979
+8284af6b;Luís;Almeida Gomes Ribeiro;luísl4@fastmail.com;43.0;1980-12-27;Recife;PE;['pintura'];['Python', 'Java'];[('Fortnite', 'PlayStation 4')];1981

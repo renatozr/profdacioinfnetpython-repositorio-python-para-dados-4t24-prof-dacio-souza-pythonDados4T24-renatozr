@@ -1,0 +1,12 @@
+id;nome;sobrenome;email;idade;data de nascimento;cidade;estado;hobbies;linguagens de programação;jogos;ano nascimento
+d02ff9dc;Clara;;;26.0;1998-01-01;Brasília;DF;[];[];[];1998
+807e4863;Tiago;;;28.0;1996-01-01;Brasília;DF;[];[];[];1996
+80b78c5f;Felipe;;;27.0;1997-01-01;Brasília;DF;[];[];[];1997
+89d761b6;Camila;Carvalho Dias Ribeiro;camilac1@freemail.com;25.0;1999-07-08;Brasília;DF;['cinema', 'ciclismo'];['JavaScript', 'Go', 'Java'];[('Minecraft', 'PC'), ('Among Us', 'Mobile'), ('Valorant', 'PC'), ('The Witcher 3', 'Xbox One')];1999
+ed4fdaad;Mariana;Rocha Oliveira Dias;mariana07@example.com;32.0;1992-09-06;Brasília;DF;[];['C#', 'Java', 'Go'];[('GTA V', 'PlayStation 4')];2024
+a9376f01;Beatriz;Dias Ribeiro Lima;;45.0;1979-04-04;Brasília;DF;['natação', 'cozinhar', 'fotografia', 'pintura'];[];[];1979
+2a5a7599;Rafael;Gomes;rafaelfwk@webmail.net;37.0;1987-08-19;Brasília;DF;['cinema', 'viagem', 'leitura', 'cozinhar', 'ciclismo'];['Ruby', 'Java', 'C#'];[('Apex Legends', 'PC'), ('GTA V', 'PlayStation 4'), ('Fortnite', 'PlayStation 4'), ('Valorant', 'PC')];1987
+5526070b;Camila;Souza;camilawce@webmail.net;32.0;1992-09-14;Brasília;DF;['cozinhar', 'pintura'];['C++', 'Ruby', 'Kotlin', 'Java', 'JavaScript'];[('Fortnite', 'PlayStation 4'), ('The Witcher 3', 'Xbox One'), ('Valorant', 'PC'), ('Overwatch', 'PC')];1992
+ce987d08;Pedro;Araújo Costa;;29.0;1995-12-16;Brasília;DF;['ciclismo', 'cinema'];['JavaScript', 'PHP', 'Swift'];[('Fortnite', 'PlayStation 4')];2024
+a909c919;Julia;Carvalho Fernandes Martins;juliae@inbox.org;36.0;1988-05-02;Brasília;DF;[];['Java'];[('Minecraft', 'PC')];1988
+c8799bd4;Bruno;Silva Dias Rocha;brunoe@randommail.com;47.0;1976-12-25;Brasília;DF;['cinema', 'natação', 'cozinhar', 'fotografia'];['JavaScript', 'Go', 'Ruby'];[];1977

@@ -1,0 +1,14 @@
+id;nome;sobrenome;email;idade;data de nascimento;cidade;estado;hobbies;linguagens de programação;jogos;ano nascimento
+db51554f;Marcos;;;27.0;1997-01-01;Porto Alegre;RS;[];[];[];1997
+94496715;Amanda;;;24.0;2000-01-01;Porto Alegre;RS;[];[];[];2000
+0bfbddf9;Mariana;;;30.0;1994-01-01;Porto Alegre;RS;[];[];[];1994
+e439f93f;Camila;Ribeiro Dias;camilaee@freemail.com;20.0;2004-10-22;Porto Alegre;RS;['cinema', 'futebol', 'natação'];['PHP', 'Kotlin', 'C#', 'Go', 'Java'];[('Apex Legends', 'PC'), ('Minecraft', 'PC')];2004
+88588439;Rafael;Oliveira;rafaelau0@freemail.com;30.0;1993-11-07;Porto Alegre;RS;[];['Java'];[('Fortnite', 'PlayStation 4'), ('Cyberpunk 2077', 'PC')];1994
+1991bdf1;Beatriz;Araújo Souza;beatriz00q@inbox.org;31.0;1993-06-01;Porto Alegre;RS;['fotografia', 'viagem', 'cozinhar', 'natação', 'leitura'];['Ruby', 'Go', 'JavaScript', 'Java', 'PHP'];[('Among Us', 'Mobile'), ('Valorant', 'PC'), ('Overwatch', 'PC')];1993
+a39d2340;Carlos;Ribeiro Rocha Rodrigues;carlosvik@fastmail.com;26.0;1997-11-03;Porto Alegre;RS;['viagem', 'fotografia', 'ciclismo', 'cozinhar', 'pintura'];[];[('Among Us', 'Mobile'), ('Overwatch', 'PC'), ('Fortnite', 'PlayStation 4')];1998
+26a53093;Larissa;Santos Ribeiro;larissarnl@randommail.com;47.0;1977-08-05;Porto Alegre;RS;['ciclismo', 'cozinhar'];['PHP', 'JavaScript', 'C++', 'Python'];[('Overwatch', 'PC'), ('Fortnite', 'PlayStation 4')];1977
+03b7736a;Camila;Oliveira Costa Moraes;camilaphh@fastmail.com;32.0;1992-03-06;Porto Alegre;RS;['futebol', 'música', 'natação'];[];[('Among Us', 'Mobile'), ('Minecraft', 'PC'), ('Fortnite', 'PlayStation 4')];1992
+97fa29e9;Pedro;Silva;pedroy4@mailservice.com;39.0;1985-04-12;Porto Alegre;RS;['cinema', 'pintura', 'futebol', 'cozinhar'];['Swift', 'Python'];[('The Witcher 3', 'Xbox One')];1985
+de90a03f;Larissa;Costa;larissaosc@example.com;29.0;1994-12-22;Porto Alegre;RS;['ciclismo'];['Swift', 'Go', 'PHP'];[('GTA V', 'PlayStation 4'), ('Minecraft', 'PC'), ('The Witcher 3', 'Xbox One'), ('League of Legends', 'PC'), ('Cyberpunk 2077', 'PC')];1995
+45cb04d7;Luís;Pereira;luísh@inbox.org;31.0;1993-01-01;Porto Alegre;RS;[];['Python', 'PHP', 'Kotlin', 'Go', 'Ruby'];[('League of Legends', 'PC'), ('GTA V', 'PlayStation 4'), ('Valorant', 'PC'), ('Fortnite', 'PlayStation 4'), ('Apex Legends', 'PC')];1993
+26a53093;Larissa;Santos Ribeiro;larissarnl@randommail.com;47.0;1977-08-05;Porto Alegre;RS;['ciclismo', 'cozinhar'];['PHP', 'JavaScript', 'C++', 'Python'];[('Overwatch', 'PC'), ('Fortnite', 'PlayStation 4')];2024

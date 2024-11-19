@@ -1,0 +1,26 @@
+id;nome;sobrenome;email;idade;data de nascimento;cidade;estado;hobbies;linguagens de programação;jogos;ano nascimento
+0d20a707;Gustavo;;;18.0;2006-01-01;São Paulo;SP;[];[];[];2006
+7feccc2f;Ana;;;22.0;2002-01-01;São Paulo;SP;[];[];[];2002
+baf8f80c;Lívia;;;24.0;2000-01-01;São Paulo;SP;[];[];[];2000
+3de07187;Sofia;;;21.0;2003-01-01;Campinas;SP;[];[];[];2003
+af2b1c2e;Juliana;;;25.0;1999-01-01;São Paulo;SP;[];[];[];1999
+8c3ac961;Thiago;;;31.0;1993-01-01;São Paulo;SP;[];[];[];1993
+c4e0b503;Leonardo;;;29.0;1995-01-01;Campinas;SP;[];[];[];1995
+fdcd788f;Fernanda;Gomes;fernanda29h@inbox.org;19.0;1999-12-10;Campinas;SP;['fotografia', 'cozinhar', 'futebol'];[];[('GTA V', 'PlayStation 4'), ('Valorant', 'PC'), ('Fortnite', 'PlayStation 4'), ('Minecraft', 'PC'), ('The Witcher 3', 'Xbox One')];2005
+9042cede;Luís;Costa Fernandes;luísy8x@mailservice.com;26.0;1998-08-18;Campinas;SP;['natação', 'viagem', 'cinema', 'ciclismo', 'cozinhar'];['PHP', 'Java', 'Python'];[('The Witcher 3', 'Xbox One'), ('GTA V', 'PlayStation 4'), ('League of Legends', 'PC'), ('Apex Legends', 'PC'), ('Minecraft', 'PC')];1998
+a7c04195;Bruno;Pereira;bruno8@randommail.com;43.0;1981-04-14;Campinas;SP;['música', 'cozinhar', 'cinema'];['Swift', 'Python', 'Ruby', 'Go', 'Java'];[('Cyberpunk 2077', 'PC'), ('Among Us', 'Mobile'), ('Valorant', 'PC'), ('Overwatch', 'PC'), ('League of Legends', 'PC')];1981
+0050be84;Lucas;Souza Almeida;lucas5@randommail.com;45.0;1979-08-03;São Paulo;SP;['música', 'viagem', 'cinema', 'natação', 'fotografia'];['C#', 'C++'];[('Cyberpunk 2077', 'PC'), ('Valorant', 'PC'), ('League of Legends', 'PC'), ('GTA V', 'PlayStation 4'), ('Overwatch', 'PC')];1979
+00705400;Rafael;Carvalho;rafaelpc4@freemail.com;27.0;1997-01-06;São Paulo;SP;['pintura'];['PHP'];[('The Witcher 3', 'Xbox One'), ('Overwatch', 'PC')];1997
+94eccf56;Lucas;Carvalho Santos Fernandes;lucas8qn@example.com;25.0;1999-09-04;São Paulo;SP;['música'];['Swift', 'PHP', 'JavaScript'];[('Among Us', 'Mobile'), ('League of Legends', 'PC'), ('The Witcher 3', 'Xbox One'), ('Overwatch', 'PC')];1999
+addf7b94;Pedro;Almeida;pedro9@randommail.com;18.0;2006-05-04;Campinas;SP;['música', 'cozinhar', 'fotografia', 'viagem', 'natação'];['C#', 'JavaScript', 'PHP'];[];2006
+b7a070b0;Lucas;Dias Martins Lima;lucaso0p@freemail.com;30.0;1994-05-21;São Paulo;SP;['viagem', 'leitura', 'cozinhar', 'futebol'];['C#', 'Go', 'Java'];[];1994
+0c6a9216;Luís;Ribeiro Lima Rodrigues;luísu@mailservice.com;30.0;1993-11-14;São Paulo;SP;['leitura', 'ciclismo', 'futebol', 'fotografia'];['C#', 'PHP', 'Go', 'Python', 'JavaScript'];[('Apex Legends', 'PC'), ('Valorant', 'PC')];1994
+52f3cc71;Camila;Pereira Martins Rodrigues;camila9x@mailservice.com;24.0;2000-01-06;Campinas;SP;[];['JavaScript', 'Kotlin', 'PHP', 'Python'];[('Among Us', 'Mobile'), ('Fortnite', 'PlayStation 4'), ('Minecraft', 'PC'), ('League of Legends', 'PC'), ('Overwatch', 'PC')];2000
+2844aa20;Luís;Carvalho Fernandes Pereira;luís2fk@webmail.net;45.0;1979-09-02;São Paulo;SP;[];['Go', 'C#'];[];1979
+c3288a3e;Carlos;Santos Gomes;carlosaa2@randommail.com;27.0;1997-05-17;São Paulo;SP;['cozinhar', 'pintura'];[];[('League of Legends', 'PC'), ('Apex Legends', 'PC'), ('Cyberpunk 2077', 'PC')];1997
+4894e523;Carlos;Rocha Martins Souza;carlos4@mailservice.com;22.0;2002-08-09;Campinas;SP;[];['Go'];[('The Witcher 3', 'Xbox One')];2002
+44be4413;Ana;Rocha Carvalho Correia;anauuy@inbox.org;35.0;1989-04-27;São Paulo;SP;[];['Kotlin', 'Ruby'];[('League of Legends', 'PC'), ('GTA V', 'PlayStation 4'), ('Overwatch', 'PC'), ('Minecraft', 'PC'), ('The Witcher 3', 'Xbox One')];1989
+f01ab056;Guilherme;Oliveira Barbosa;guilhermea3@fastmail.com;42.0;1981-11-13;Campinas;SP;['cinema'];['Go', 'Java', 'Swift', 'C++'];[];1982
+1052a137;Julia;Almeida Lima Carvalho;juliagwf@fastmail.com;47.0;1976-12-21;São Paulo;SP;['fotografia', 'música', 'futebol'];[];[('Fortnite', 'PlayStation 4'), ('The Witcher 3', 'Xbox One')];1977
+e839133b;Lucas;Rocha Gomes Correia;lucas1x@mailservice.com;41.0;1983-01-01;Campinas;SP;['futebol', 'fotografia'];['Kotlin', 'JavaScript'];[];1983
+df928c7b;Lucas;Moraes Almeida;lucasn@webmail.net;33.0;1991-06-10;São Paulo;SP;[];['C#'];[];1991

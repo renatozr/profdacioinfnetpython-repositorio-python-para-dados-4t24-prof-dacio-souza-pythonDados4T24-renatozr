@@ -1,0 +1,2 @@
+id;nome;sobrenome;email;idade;data de nascimento;cidade;estado;hobbies;linguagens de programação;jogos;ano nascimento
+0592809f;Ana;Rodrigues;anav9i@inbox.org;41.0;1983-06-16;São Paulo;ZZ;['pintura', 'fotografia'];['Python', 'Java', 'PHP', 'Kotlin', 'Swift'];[('Valorant', 'PC'), ('Overwatch', 'PC')];1983

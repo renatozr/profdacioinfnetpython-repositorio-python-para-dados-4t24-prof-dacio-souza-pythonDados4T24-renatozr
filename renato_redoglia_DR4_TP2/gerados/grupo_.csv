@@ -1,0 +1,9 @@
+id;nome;sobrenome;email;idade;data de nascimento;cidade;estado;hobbies;linguagens de programação;jogos;ano nascimento
+1000e909;Ana;Barbosa;ana7n@mailservice.com;45.0;1979-06-11;Juiz de Fora;;['ciclismo', 'fotografia'];['C++', 'PHP', 'Ruby', 'Go', 'C#'];[('Overwatch', 'PC'), ('Apex Legends', 'PC'), ('Minecraft', 'PC')];1979
+22ec0237;Carlos;Rocha;carlosc@randommail.com;48.0;1976-09-03;São Paulo;;['viagem', 'leitura', 'ciclismo'];['Python', 'Kotlin', 'C++', 'Ruby'];[('League of Legends', 'PC'), ('The Witcher 3', 'Xbox One')];1976
+2bfa3d18;Guilherme;Costa Dias;guilhermeoj@inbox.org;44.0;1980-06-21;;;[];['Swift', 'Java', 'JavaScript', 'Ruby', 'PHP'];[('Apex Legends', 'PC'), ('Cyberpunk 2077', 'PC'), ('Overwatch', 'PC')];1980
+e743f4c4;Guilherme;Moraes Souza Santos;guilherme84d@webmail.net;33.0;1991-03-25;Rio de Janeiro;;[];['C#', 'Java', 'Python'];[('GTA V', 'PlayStation 4'), ('Apex Legends', 'PC'), ('Overwatch', 'PC'), ('Among Us', 'Mobile')];1991
+22aecc6b;Camila;Gomes Dias Moraes;camilabh@fastmail.com;38.0;1986-07-05;Manaus;;['ciclismo', 'leitura', 'cozinhar'];['Java', 'Ruby'];[('The Witcher 3', 'Xbox One')];1986
+7043c6b1;Guilherme;Dias Fernandes;guilhermecl@fastmail.com;41.0;1983-03-19;;;['fotografia', 'natação', 'música', 'viagem'];['Python', 'Kotlin', 'PHP', 'C++', 'Swift'];[('Overwatch', 'PC')];1983
+ca4fc87a;Mariana;Almeida Silva;mariana1@mail.com;29.0;1995-11-22;;;['música', 'viagem'];['Java', 'C#'];[('The Witcher 3', 'Xbox One')];1995
+1000e909;Ana;Barbosa;ana7n@mailservice.com;45.0;1979-06-11;Juiz de Fora;;['ciclismo', 'fotografia'];['C++', 'PHP', 'Ruby', 'Go', 'C#'];[('Overwatch', 'PC'), ('Apex Legends', 'PC'), ('Minecraft', 'PC')];1979
